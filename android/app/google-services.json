@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681272485947",
+    "project_id": "ai-otc-prototype",
+    "storage_bucket": "ai-otc-prototype.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681272485947:android:6e8b1758799db82035141e",
+        "android_client_info": {
+          "package_name": "com.example.hellohackers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmr8F685synbco9-9iBSAilRidEwd-5AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681272485947:android:d7168716eac32ee935141e",
+        "android_client_info": {
+          "package_name": "com.example.hellohackers_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmr8F685synbco9-9iBSAilRidEwd-5AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
